@@ -1,3 +1,4 @@
 function register(login, password){
-	return 'Account was registered password';
+	return 'Type password';
+
 	}
